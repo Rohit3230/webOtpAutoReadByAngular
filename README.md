@@ -7,7 +7,7 @@
     As describe in this url: https://web.dev/web-otp/
 
 ## Live Demo URL (Live Testing URL)
-    <a href='https://rohit3230.github.io/Angular-Web-Otp-Auto-Read/'>live url demo</a>
+    [Live Demo URL (Live Testing URL)](https://rohit3230.github.io/Angular-Web-Otp-Auto-Read/)
 
 # About WebOtpAutoReadByAngular tech.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.4.
