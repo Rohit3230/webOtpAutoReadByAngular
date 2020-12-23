@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## What is in this project:
+    Now like as a mobile application we can auto read otp from the sms in web applications and PWA (Progressive Web App ) also.
+
+    We are integrating this functionalityin angular application.
+
+## Parent Documentation:
+    As describe in this url: https://web.dev/web-otp/
+
+## 
